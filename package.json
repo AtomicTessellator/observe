@@ -1,0 +1,25 @@
+{
+  "name": "observe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtomicTessellator/observe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtomicTessellator/observe/issues"
+  },
+  "homepage": "https://github.com/AtomicTessellator/observe#readme",
+  "devDependencies": {
+    "electron": "^17.0.1"
+  },
+  "dependencies": {
+    "electron-store": "^8.0.1"
+  }
+}
